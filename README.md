@@ -1,10 +1,10 @@
 # StreamySafe
-This repo is for uBlock Origin/Adblock Plus and similar blockers to filter any site/subsite that tries to troll you.
+ThisThis repo is intended for uBlock Origin/Adblock Plus and similar blockers to filter any site/subsite that blocks illegal streaming services.
 
 ## Installation
 
 ### Automatic (Adblock Plus, uBlock Origin)
-  Click this: [(Subscribe)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/TheGlitchGamers/StreamySafe/main/safefilter&title=StreamySafe%20by%20GlitchgGamers)
+  Click this: [(Subscribe)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/TheGlitchGamers/StreamySafe/main/filterblocklist&title=Streaming4Security%20by%20GlitchgGamers)
   
 ### Manual (uBlock Origin)
 
@@ -14,7 +14,7 @@ This repo is for uBlock Origin/Adblock Plus and similar blockers to filter any s
   - Copy and paste into the textbox:
   
   ```
-  https://raw.githubusercontent.com/TheGlitchGamers/StreamySafe/main/safefilter
+  https://raw.githubusercontent.com/TheGlitchGamers/Streaming4Security/main/filterblocklist
   ```
   
   - Now there should appear a yellow button called "Parse", click it
