@@ -7,9 +7,13 @@
 
 # WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 
-# Main: block links
+# Main: hoster links
 ||shannonpersonalcost.com^$important,all
 ||doods.pro^$important,all
 ||videzz.net^$important,all
 ||streamtape.com^$important,all
+
+
+# Web links
+||aniworld.to^$important,all
 
