@@ -14,7 +14,7 @@ ThisThis repo is intended for uBlock Origin/Adblock Plus and similar blockers to
   - Copy and paste into the textbox:
   
   ```
-  https://github.com/TheGlitchGamers/Streaming4Security/raw/main/filterblocklist
+  https://raw.githubusercontent.com/TheGlitchGamers/Streaming4Security/main/filterblocklist
   ```
   
   - Now there should appear a yellow button called "Parse", click it
